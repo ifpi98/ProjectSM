@@ -99,18 +99,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\2 - Scripts\JSON\Editor\JSONChecker.cs" />
     <Compile Include="Assets\99 - Assets\UITween\Editor\EditorUITween.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\2 - Scripts\IniFile\Readme.txt" />
-    <None Include="Assets\2 - Scripts\JSON\readme.txt" />
-    <None Include="Assets\2 - Scripts\Twitter\readme.txt" />
-    <None Include="Assets\Resources\Datas\DataCardRank.txt" />
-    <None Include="Assets\Resources\Datas\DataChar.txt" />
-    <None Include="Assets\Resources\Datas\DataExpLv.txt" />
-    <None Include="Assets\Resources\Datas\DataLocalization.txt" />
-    <None Include="Assets\Resources\Datas\DataUnit.txt" />
     <None Include="Assets\Resources\Datas\StoryMaker - AT1.txt" />
     <None Include="Assets\Resources\Datas\StoryMaker - QT1.txt" />
   </ItemGroup>

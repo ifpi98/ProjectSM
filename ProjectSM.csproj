@@ -64,55 +64,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\2 - Scripts\AT1Parser.cs" />
-    <Compile Include="Assets\2 - Scripts\CSVParser.cs" />
-    <Compile Include="Assets\2 - Scripts\CardRankParser.cs" />
-    <Compile Include="Assets\2 - Scripts\CardSlotToggler.cs" />
-    <Compile Include="Assets\2 - Scripts\CharParser.cs" />
-    <Compile Include="Assets\2 - Scripts\DataArrayJson.cs" />
-    <Compile Include="Assets\2 - Scripts\DataIni.cs" />
-    <Compile Include="Assets\2 - Scripts\ExpLvParser.cs" />
-    <Compile Include="Assets\2 - Scripts\Game.cs" />
-    <Compile Include="Assets\2 - Scripts\GameCanvasGui.cs" />
-    <Compile Include="Assets\2 - Scripts\GameGui.cs" />
-    <Compile Include="Assets\2 - Scripts\IniFile\Demo\IniFile_DemoScript.cs" />
-    <Compile Include="Assets\2 - Scripts\IniFile\IniFile.cs" />
-    <Compile Include="Assets\2 - Scripts\JSON\JSONObject.cs" />
-    <Compile Include="Assets\2 - Scripts\JSON\JSONTemplates.cs" />
-    <Compile Include="Assets\2 - Scripts\JSON\VectorTemplates.cs" />
-    <Compile Include="Assets\2 - Scripts\LocalizationParser.cs" />
-    <Compile Include="Assets\2 - Scripts\MOITwitter.cs" />
-    <Compile Include="Assets\2 - Scripts\MadeSlotSelector.cs" />
-    <Compile Include="Assets\2 - Scripts\MoiPostTwit.cs" />
-    <Compile Include="Assets\2 - Scripts\Monster.cs" />
-    <Compile Include="Assets\2 - Scripts\NextTurn.cs" />
     <Compile Include="Assets\2 - Scripts\QT1Parser.cs" />
     <Compile Include="Assets\2 - Scripts\SMCanvasGui.cs" />
-    <Compile Include="Assets\2 - Scripts\SampleHash.cs" />
-    <Compile Include="Assets\2 - Scripts\SetHash.cs" />
-    <Compile Include="Assets\2 - Scripts\SkillSelector.cs" />
-    <Compile Include="Assets\2 - Scripts\Twitter\Demo.cs" />
-    <Compile Include="Assets\2 - Scripts\Twitter\Twitter.cs" />
-    <Compile Include="Assets\2 - Scripts\UnitParser.cs" />
-    <Compile Include="Assets\2 - Scripts\UnitPool.cs" />
     <Compile Include="Assets\99 - Assets\UITween\Prefabs\Click Effect Pref\ClickedWaveAnimation.cs" />
-    <Compile Include="Assets\99 - Assets\UITween\Prefabs\Unit.cs" />
-    <Compile Include="Assets\99 - Assets\UITween\Prefabs\Unit2.cs" />
     <Compile Include="Assets\99 - Assets\UITween\ScenesExamplesScripts\ActivateOnEnable.cs" />
-    <Compile Include="Assets\99 - Assets\UITween\ScenesExamplesScripts\CreateAnimImage.cs" />
     <Compile Include="Assets\99 - Assets\UITween\ScenesExamplesScripts\FollowClick.cs" />
     <Compile Include="Assets\99 - Assets\UITween\Scripts\EasyTween.cs" />
     <Compile Include="Assets\99 - Assets\UITween\Scripts\ReferencedFrom.cs" />
     <Compile Include="Assets\99 - Assets\UITween\Scripts\UITween.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\2 - Scripts\IniFile\Readme.txt" />
-    <None Include="Assets\2 - Scripts\JSON\readme.txt" />
-    <None Include="Assets\2 - Scripts\Twitter\readme.txt" />
-    <None Include="Assets\Resources\Datas\DataCardRank.txt" />
-    <None Include="Assets\Resources\Datas\DataChar.txt" />
-    <None Include="Assets\Resources\Datas\DataExpLv.txt" />
-    <None Include="Assets\Resources\Datas\DataLocalization.txt" />
-    <None Include="Assets\Resources\Datas\DataUnit.txt" />
     <None Include="Assets\Resources\Datas\StoryMaker - AT1.txt" />
     <None Include="Assets\Resources\Datas\StoryMaker - QT1.txt" />
   </ItemGroup>
